@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Marketplace</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Professional Marketplace</h1>
+    </header>
+    <main>
+        <section class="services">
+            <h2>Featured Services</h2>
+            <div class="service-card">
+                <img src="service1.jpg" alt="Service 1">
+                <h3>Service 1</h3>
+                <p>Description of Service 1.</p>
+                <button>Learn More</button>
+            </div>
+            <div class="service-card">
+                <img src="service2.jpg" alt="Service 2">
+                <h3>Service 2</h3>
+                <p>Description of Service 2.</p>
+                <button>Learn More</button>
+            </div>
+            <!-- Add more service cards here -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Professional Marketplace</p>
+    </footer>
+</body>
+</html>
+
